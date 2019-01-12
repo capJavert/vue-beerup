@@ -5,8 +5,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/",
-  "start_url": "/home",
+  "scope": "/vue-beerup",
+  "start_url": "/vue-beerup/home",
   "icons": [
       {
         "src": "icons/windows10/Square71x71Logo.scale-400.png",
